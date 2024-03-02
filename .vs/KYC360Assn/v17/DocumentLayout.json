@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\utils\\validations\\newdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\utils\\validations\\newdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\utils\\validations\\newaddressesrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\utils\\validations\\newaddressesrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\utils\\validations\\newentityrequestbodyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\utils\\validations\\newentityrequestbodyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\dbentities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\dbentities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\dbentities\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\dbentities\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\dbentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\dbentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\utils\\retryandbackoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\utils\\retryandbackoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\utils\\validations\\newnamesrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\utils\\validations\\newnamesrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\request\\newnamesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\request\\newnamesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\request\\newentityrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\request\\newentityrequestbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\request\\newdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\request\\newdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\request\\newaddressesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\request\\newaddressesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\dbentities\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\dbentities\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\models\\dbentities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\models\\dbentities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|c:\\abhinav\\coding\\dotnetcoreapi\\kyc360\\kyc360assn\\dataaccesslayer\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71360F33-F667-41F1-8113-96239DAC8AC6}|KYC360Assn\\KYC360Assn.csproj|solutionrelative:kyc360assn\\dataaccesslayer\\entitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewAddressesRequestValidator.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewAddressesRequestValidator.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Utils\\Validations\\NewAddressesRequestValidator.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewAddressesRequestValidator.cs",
+              "RelativeToolTip": "KYC360Assn\\Utils\\Validations\\NewAddressesRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T21:58:47.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewDateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewDateRequestValidator.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Utils\\Validations\\NewDateRequestValidator.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewDateRequestValidator.cs",
+              "RelativeToolTip": "KYC360Assn\\Utils\\Validations\\NewDateRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:00:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewEntityRequestBodyValidator.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewEntityRequestBodyValidator.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Utils\\Validations\\NewEntityRequestBodyValidator.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewEntityRequestBodyValidator.cs",
+              "RelativeToolTip": "KYC360Assn\\Utils\\Validations\\NewEntityRequestBodyValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T21:53:19.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewNamesRequestValidator.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewNamesRequestValidator.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Utils\\Validations\\NewNamesRequestValidator.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\Validations\\NewNamesRequestValidator.cs",
+              "RelativeToolTip": "KYC360Assn\\Utils\\Validations\\NewNamesRequestValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T21:58:59.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Program.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Program.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Program.cs",
+              "RelativeToolTip": "KYC360Assn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T21:48:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Address.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\DBEntities\\Address.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Address.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\DBEntities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:36.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Date.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\DBEntities\\Date.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Date.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\DBEntities\\Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Entity.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\DBEntities\\Entity.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Entity.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\DBEntities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityController.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Controllers\\EntityController.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Controllers\\EntityController.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Controllers\\EntityController.cs",
+              "RelativeToolTip": "KYC360Assn\\Controllers\\EntityController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowA0BAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:19:37.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewEntityRequestBody.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewEntityRequestBody.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\Request\\NewEntityRequestBody.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewEntityRequestBody.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\Request\\NewEntityRequestBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewNamesRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewNamesRequest.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\Request\\NewNamesRequest.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewNamesRequest.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\Request\\NewNamesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RetryAndBackoff.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\RetryAndBackoff.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Utils\\RetryAndBackoff.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Utils\\RetryAndBackoff.cs",
+              "RelativeToolTip": "KYC360Assn\\Utils\\RetryAndBackoff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:55.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewDateRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewDateRequest.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\Request\\NewDateRequest.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewDateRequest.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\Request\\NewDateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:44.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewAddressesRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewAddressesRequest.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\Request\\NewAddressesRequest.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\Request\\NewAddressesRequest.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\Request\\NewAddressesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Name.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\DBEntities\\Name.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\Name.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\DBEntities\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\IEntity.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\Models\\DBEntities\\IEntity.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\Models\\DBEntities\\IEntity.cs",
+              "RelativeToolTip": "KYC360Assn\\Models\\DBEntities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:40.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityDbContext.cs",
+              "DocumentMoniker": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\DataAccessLayer\\EntityDbContext.cs",
+              "RelativeDocumentMoniker": "KYC360Assn\\DataAccessLayer\\EntityDbContext.cs",
+              "ToolTip": "C:\\Abhinav\\Coding\\DotNetCoreAPI\\KYC360\\KYC360Assn\\DataAccessLayer\\EntityDbContext.cs",
+              "RelativeToolTip": "KYC360Assn\\DataAccessLayer\\EntityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:21:27.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
